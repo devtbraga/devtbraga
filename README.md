@@ -3,6 +3,8 @@
 Here I am trying to learn something new every day, but also leave some contributions that can help someone. I have also left my studies and learning, sometimes it can be useful to you. Feel free to talk.
 👋
 
+🔭 <a href="https://codepen.io/devtbraga">Maybe you want to see some things I did on the CodePen</a>
+
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtbraga&hide=html&layout=compact&theme=buefy" />
 
 
